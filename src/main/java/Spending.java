@@ -1,7 +1,7 @@
 import java.io.Serializable;
 
 /**
- * Created by Nidhin on 3/19/2014.
+ * A JAva Bean that represents a line in the csv file
  */
 public class Spending implements Serializable {
 
@@ -17,6 +17,7 @@ public class Spending implements Serializable {
     private double average_annual_percent_growth;
 
 
+    //auto generated getters and settesr
     public String getCode() {
         return code;
     }
