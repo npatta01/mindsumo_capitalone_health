@@ -1,2 +1,2 @@
-mindsumo_capitalone_health
+mindsumo_cigna_health
 ===========================
